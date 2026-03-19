@@ -1,0 +1,11 @@
+attack_cat,n,pred_attack_rate
+Analysis,574,0.939024
+Backdoor,524,0.996183
+DoS,3618,0.993367
+Exploits,10163,0.983076
+Fuzzers,5441,0.795442
+Generic,12054,0.999336
+Normal,16800,0.081012
+Reconnaissance,3056,0.993128
+Shellcode,343,0.944606
+Worms,30,1.0
